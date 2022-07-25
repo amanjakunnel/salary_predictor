@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gcp-summer-2022-1-356703",
+  "private_key_id": "77e332e1b750055576f8fa3f238dbb18d1e157d4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCUMYNOe3wgUeDx\nbQE1S3nMG4qbbO5gpBIjYYY0Yj3v6YCElLhkdPqoyGvwWqjw258ryzYlKK77/Lmz\nfGEJuhJrDQebIaKj/YUjp/GL+aEsF4zQaBWaBOwWIBPnpjGybE05RzVFQewVKdy4\nyGZBE+o6fx8UIN0BGgn/d+zUDv4AY+ecE+ds7JABN+tjLJPpAd44HAta9CjhTs99\nJxvJ0e8IOFjhTKQbMZ0gRA41VbAO7SVJ1MvoliO8C1nBjJiWl94dkM9XhOoIio4b\ngA4DSBmVcTccLaJI7BsNiwHBtpwT0mxV7nSbQYrXnRjdYM9bcFtBNqgH1By2AEDV\nMYxzpt19AgMBAAECggEAF22wfaLmH9HyBxkdnMhe7BbalfHlyd+GgpNzfSqe8iPv\nToaYlEEuM6rj7a7XkKSYCHtrBvrklzAAR9D9ImWJbeU0c6Egrl5xQw7VEDUZ9veO\nKpCaAayPinvtyayrpLKcjtakJFvkr//bRldgWx+D41WfmzYK2pa8R+g0x93K6FKl\nf7dfL881g22x+dgZoD6ntUCXCVdjB/C57q/uOrFEPOrbB/HH1bJQG+7ZMisr4XJl\ny2ECsCbR7Anhakb9O696MGysrx+cRF05Kp6yeB1qdH4FIdshNOLI0NVm1B/aFZrs\njEQEqcueubJlYdceTbElVQ2aQvsMkf0IGe7GN+bhQQKBgQDECZkdlzl0eITpqpXd\nCF0Mrjvko5tMEZ7R97U4MZzsNppT/NaKNub8zEEm//HO7G4Nb16h30HwHmfm/B2x\nzRpYMFjdr56L7+V1lBNONecFcYP3UcLHwz9u63u0d+2jhUXgyMqEomoaKkIanC+Z\nfGeHcwiWUA+yKjMnelaa2+Uv8QKBgQDBhY9/A6vo14/pS9JyYNjOLjniOiptS7pS\nSMo/PvleFfUXbatzhU9mVRMoaaN6CZvMRuj0wwv0GEtHYUgSk+feoYQ3CoCcNoE7\nORQ31qwaWCXXAcgZppxMX8Zr6ccJ3an39yxdVZz+JceInSSnuwYVjG74LhYcsKzm\n+eEXoGCSTQKBgQCOmUy/sZkhl+lW77dDqSnGZ5c5oaj9lHOq2D0CO1SinrV0Ep8c\nuwMbMJjT/amvk1waecCkjvov6G48H3iaNU/Mhp6d43m44TBQbv38DkmWNBSCev7s\nwKIL1U+O3w4FvJQwBt8Jy/rSPZsIMESPqWbFqG++p05Dk17SgLMuwnXcgQKBgQCj\nz12nI0F6aDW+QltSTF5ZMNH4iEnvmGGQU2M3ZCQLm0SK3194+sg6FBuSYtFpdQa3\nRPLedNgCeCoIsvUiHKbyUgAr4yz4jj6YFfniRkoKRsFJHY33AIxfLdc0839y/3pn\nloesPdMVYn9jSbmEbZB53xTz6Xb4NCk3nx8FM9FrJQKBgHiSnoDSFmvw7DZu0Ggy\n5G6nK+pCeQwAzp7IuhGX1vCz+omwhc9bgIeh/lqL1JsLzrExm/LK4ZM8fULXY82k\nVcW8awBRgBLL5Vl8ZrmXb1+ZYdEULCziAf15lHtkpvj+wAoTFX0IfeRSgd/nP5V/\nGmLHh3CNsJX99g8816uhgSrb\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcp-summer-2022@gcp-summer-2022-1-356703.iam.gserviceaccount.com",
+  "client_id": "105515819502748752154",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcp-summer-2022%40gcp-summer-2022-1-356703.iam.gserviceaccount.com"
+}
