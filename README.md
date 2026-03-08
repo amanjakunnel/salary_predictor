@@ -7,6 +7,3 @@
 ```bash
 git clone https://github.com/amanjakunnel/salary-predictor.git
 cd salary-predictor
-
-# Frontend
-npm
