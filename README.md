@@ -1,2 +1,12 @@
-# salary_predictor
-Given the qualifications and previous work experience of a user, our application will be able to predict the potential salary said user can obtain for a specified role. Eventually we seek to configure the application such that the user needs to provide only their resume and certain necessary inputs in order to make the predictions.
+# Salary Predictor - ML-Powered Salary Estimation
+
+**Salary Predictor** is a web application that uses machine learning to predict salary ranges based on resumes, job titles, experience, and skills. Upload resume → Get instant prediction! React frontend, model API integration, prediction UI.
+
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/amanjakunnel/salary-predictor.git
+cd salary-predictor
+
+# Frontend
+npm
